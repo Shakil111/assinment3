@@ -1,0 +1,39 @@
+*{
+	margin:0px auto;
+}
+body{
+	background-image:url(../img/bg.jpg);
+	background-size:cover;
+}
+.containt{
+	width: 579px;
+	height: 201px;
+	margin: 8px auto;
+}
+.containt h4{
+	
+font-size: 43px;
+	
+font-style: oblique;
+	
+color: #e6c4c4;
+	
+padding: 16px;
+}
+.signin{
+	padding: 114px;
+	margin: 36px auto;
+	background-color:#2a67d8;
+}
+.from-control{
+	width: 217px;
+	height: 19px;
+	padding: 14px 42px;
+	text-align: left;
+	margin-bottom: 7px;
+}
+.btn{
+	width: 31%;
+	height: 40px;
+	padding: 11px;
+	border-radius: 2px 5px;

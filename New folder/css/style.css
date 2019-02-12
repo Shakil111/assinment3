@@ -1,0 +1,61 @@
+*{
+	margin:0px auto;
+}
+body{
+	background-color:#456534;
+}
+.containt{
+	width:1140px;
+	margin:10px auto;
+}
+.one{
+	width:228px;
+	height: 551px;
+	background-color: bisque;
+	float: left;
+	margin:0px auto;
+}
+.two{
+	width: 228px;
+	height: 551px;
+	background-color:cornsilk;
+	float: left;
+	margin:0px auto;
+}
+.three{
+	width: 228px;
+	height: 551px;
+	background-color: beige;
+	float: left;
+	margin:0px auto;
+}
+.four{
+	width: 228px;
+	height: 551px;
+	background-color: darkgrey;
+	float: left;
+	margin:0px auto;
+}
+.five{
+   width:228px;
+   height:551px;
+   background-color:darkkhaki;
+   float: left;
+   margin:0px auto;
+}
+.containt2{
+	width:1140px;
+	margin-t:10px 0px  auto;
+}
+.lll{
+	width: 570px;
+	height: 600px;
+	background-color: #a07745;
+	float: left;
+}
+.kkk{
+	width: 570px;
+	height: 600px;
+	float: left;
+	background-color: #44423e;
+}
